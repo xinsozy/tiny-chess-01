@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01)
+[![Rank](https://make.fun/badge/tiny-chess-01/xinsozy/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01)
+[![Reward](https://make.fun/badge/tiny-chess-01/xinsozy/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01)
+
 # tiny-chess-01 entry
 
 A chess engine in at most 4,096 bytes of Python for make.fun
@@ -14,3 +18,5 @@ Local practice trials (kit scorer, 6 games each): trial 0 Elo
 
 The readable source this entry was packed from is kept with the
 build transcript bundle submitted with the entry.
+
+Built for the make.fun bounty: https://make.fun/bounty/tiny-chess-01
